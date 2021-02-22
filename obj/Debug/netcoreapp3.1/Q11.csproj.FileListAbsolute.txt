@@ -1,0 +1,13 @@
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.exe
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.deps.json
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.runtimeconfig.json
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.runtimeconfig.dev.json
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.dll
+E:\INTROPROG1\Week 8\Q11\bin\Debug\netcoreapp3.1\Q11.pdb
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.csprojAssemblyReference.cache
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.AssemblyInfoInputs.cache
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.AssemblyInfo.cs
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.csproj.CoreCompileInputs.cache
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.dll
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.pdb
+E:\INTROPROG1\Week 8\Q11\obj\Debug\netcoreapp3.1\Q11.genruntimeconfig.cache
